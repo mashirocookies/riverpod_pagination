@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:riverpod_pagination/utils/logger_interceptor.dart';
+import 'package:riverpod_pagination/core/utils/logger_interceptor.dart';
 
 part 'dio_provider.g.dart';
 

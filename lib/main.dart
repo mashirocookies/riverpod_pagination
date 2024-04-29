@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_pagination/router/app_router.dart';
+import 'package:riverpod_pagination/core/router/app_router.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));

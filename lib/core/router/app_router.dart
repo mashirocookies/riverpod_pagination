@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import 'package:riverpod_pagination/router/scaffold_with_nested_navigation.dart';
+import 'package:riverpod_pagination/core/router/scaffold_with_nested_navigation.dart';
 
 enum AppRoute {
   movies,
